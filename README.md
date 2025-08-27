@@ -1,1 +1,1 @@
-lorem ipsum sit dolor amet
+Understanding Javascript Array Methods with Visual and Demonstration
